@@ -12,7 +12,6 @@ Developed by: Bernardo Bianco Prado, Calvin Tran, Colin Yoon, and Drew Vanderspo
 
 Original scores by: Emily Sulkey and Liam Kochanek
 
-Original art by: Liam Kochanek
+Original art by: Liam Kochanek, Bernardo Bianco Prado, and Calvin Tran
 
 Voice acting by: Chandler Branson
-
